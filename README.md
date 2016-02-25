@@ -7,7 +7,7 @@ Running the program:
 
 In the command line:
 
-	python encoder.py 'x' 'y'
+	python encoder.py "x" "y"
 	
 	x = name of file
 	y = size of max search buffer, i.e. 1024
