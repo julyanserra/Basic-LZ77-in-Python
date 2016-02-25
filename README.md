@@ -1,7 +1,7 @@
  
 Julian Serra
 
-This is a very basic LZ77 encoder and decoder that achieves a solid compression ratio for small files.
+This is a very basic LZ77 encoder and decoder that achieves a solid compression rate for small files.
 
 Running the program:
 
