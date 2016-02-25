@@ -13,8 +13,11 @@ In the command line:
 
 to decode this compressed file, in the command line:
 
-	python decoder2.py "size of max search buffer used in encoder, i.e. 1024" "file type, i.e. txt" 
+	python decoder2.py "size of max search buffer used in encoder, i.e. 1024" "file type, i.e. txt, jpg, etc." 
 
-	//this will output a file called 'processed.txt' which should be your decompressed file equivalent to your original file. 
+	//this will output a file called 'processed.txt' or 'processed.jpg', etc. 
+	
+	
+This should be your decompressed file which is exactly the same as the original file you compressed.
  
  
